@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rippled-ws-client": "^1.6.3"
+  }
+}
