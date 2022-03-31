@@ -15,3 +15,6 @@ Those who operate validators do so because they have a demonstrated interest in 
 For those more familiar with crypto, the rationale for running a validator is similar to why someone would run a Bitcoin Full Node: by contributing to the ecosystem, one hopes that it will continue to thrive and grow.
 
 Validator operators that appear on a UNL also partake in the governance of the XRP Ledger through voting on fees and amendments, which are proposed changes to the protocol.
+
+## No Incentive: A Design Decision
+Unlike other decentralized ledgers, the XRP Ledger does not provide a direct economic incentive for contributing to the consensus process by running a validator. Other blockchains offer direct incentives such as rewards from mining and staking or trading advantages. Instead, the lack of direct incentives for XRP Ledger validators attracts natural stakeholders.
